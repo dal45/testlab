@@ -1,2 +1,7 @@
 Hello World! My name is Daniel and I am a Computer Engineering Major
+ main
 My name is Renato and I am a Information and Technology Major
+
+My name is Harrison and I am a Computer Engineering Technology Major.
+My name is Renato and I amd a Information and Technology Major
+ main
